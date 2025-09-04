@@ -73,8 +73,9 @@ RMSE Scores:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/california-housing-prediction.git
-   cd california-housing-prediction```
+   git clone https://github.com/Deepansh-Umar/california_housing_price_prediction.git
+   cd california_housing_price_prediction
+   ```
 
 2. Install dependencies:
 
